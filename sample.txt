@@ -1,1 +1,3 @@
 Hello!! My name is Yash Rajput.
+I am learning embedded systems and iot at AKGEC.
+I am from Ghaziabad.
